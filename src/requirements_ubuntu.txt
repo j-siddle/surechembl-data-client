@@ -15,7 +15,7 @@ python-apt==0.9.3.5
 python-debian==0.1.21-nmu2ubuntu2
 requests==2.2.1
 six==1.5.2
-urllib3==1.7.1
+urllib3==1.26.5
 vboxapi==1.0
 wsgiref==0.1.2
 zope.interface==4.0.5
