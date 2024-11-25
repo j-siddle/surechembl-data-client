@@ -9,7 +9,7 @@ macholib==1.5
 matplotlib==1.1.1
 mock==1.0.1
 modulegraph==0.10.1
-numpy==1.6.2
+numpy==1.22.0
 py2app==0.7.1
 pyOpenSSL==0.13
 pyobjc-core==2.3.2a0
